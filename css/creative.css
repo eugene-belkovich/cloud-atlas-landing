@@ -231,7 +231,7 @@ header .header-content .header-content-inner p {
 }
 .portfolio-box .portfolio-box-caption {
   color: white;
-  opacity: 0;
+  opacity: 0.5;
   display: block;
   background: rgba(240, 95, 64, 0.9);
   position: absolute;
@@ -264,7 +264,7 @@ header .header-content .header-content-inner p {
   font-size: 18px;
 }
 .portfolio-box:hover .portfolio-box-caption {
-  opacity: 1;
+  opacity: 0;
 }
 .portfolio-box:focus {
   outline: none;
