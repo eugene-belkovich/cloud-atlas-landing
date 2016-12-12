@@ -60,19 +60,19 @@
         },
         items: [
             {
-                src: 'img/portfolio/1/1.jpg'
+                src: 'img/portfolio/1/1a.jpg'
             },
             {
-                src: 'img/portfolio/1/2.jpg'
+                src: 'img/portfolio/1/2a.jpg'
             },
             {
-                src: 'img/portfolio/1/3.jpg'
+                src: 'img/portfolio/1/3a.jpg'
             },
             {
-                src: 'img/portfolio/1/4.jpg'
+                src: 'img/portfolio/1/4a.jpg'
             },
             {
-                src: 'img/portfolio/1/5.jpg '
+                src: 'img/portfolio/1/5a.jpg '
             }
         ]
     });
@@ -91,19 +91,19 @@
         },
         items: [
             {
-                src: 'img/portfolio/2/1.jpg'
+                src: 'img/portfolio/2/1b.jpg'
             },
             {
-                src: 'img/portfolio/2/2.jpg'
+                src: 'img/portfolio/2/2b.jpg'
             },
             {
-                src: 'img/portfolio/2/3.jpg'
+                src: 'img/portfolio/2/3b.jpg'
             },
             {
-                src: 'img/portfolio/2/4.jpg'
+                src: 'img/portfolio/2/4b.jpg'
             },
             {
-                src: 'img/portfolio/2/5.jpg '
+                src: 'img/portfolio/2/5b.jpg '
             }
         ]
     });
@@ -122,19 +122,19 @@
         },
         items: [
             {
-                src: 'img/portfolio/3/1.jpg'
+                src: 'img/portfolio/3/1c.jpg'
             },
             {
-                src: 'img/portfolio/3/2.jpg'
+                src: 'img/portfolio/3/2c.jpg'
             },
             {
-                src: 'img/portfolio/3/3.jpg'
+                src: 'img/portfolio/3/3c.jpg'
             },
             {
-                src: 'img/portfolio/3/4.jpg'
+                src: 'img/portfolio/3/4c.jpg'
             },
             {
-                src: 'img/portfolio/3/5.jpg '
+                src: 'img/portfolio/3/5c.jpg '
             }
         ]
     });
@@ -153,19 +153,19 @@
         },
         items: [
             {
-                src: 'img/portfolio/4/1.jpg'
+                src: 'img/portfolio/4/1d.jpg'
             },
             {
-                src: 'img/portfolio/4/2.jpg'
+                src: 'img/portfolio/4/2d.jpg'
             },
             {
-                src: 'img/portfolio/4/3.jpg'
+                src: 'img/portfolio/4/3d.jpg'
             },
             {
-                src: 'img/portfolio/4/4.jpg'
+                src: 'img/portfolio/4/4d.jpg'
             },
             {
-                src: 'img/portfolio/4/5.jpg '
+                src: 'img/portfolio/4/5d.jpg '
             }
         ]
     });
@@ -184,19 +184,19 @@
         },
         items: [
             {
-                src: 'img/portfolio/5/1.jpg'
+                src: 'img/portfolio/5/1e.jpg'
             },
             {
-                src: 'img/portfolio/5/2.jpg'
+                src: 'img/portfolio/5/2e.jpg'
             },
             {
-                src: 'img/portfolio/5/3.jpg'
+                src: 'img/portfolio/5/3e.jpg'
             },
             {
-                src: 'img/portfolio/5/4.jpg'
+                src: 'img/portfolio/5/4e.jpg'
             },
             {
-                src: 'img/portfolio/5/5.jpg '
+                src: 'img/portfolio/5/5e.jpg '
             }
         ]
     });
@@ -215,19 +215,19 @@
         },
         items: [
             {
-                src: 'img/portfolio/6/1.jpg'
+                src: 'img/portfolio/6/1f.jpg'
             },
             {
-                src: 'img/portfolio/6/2.jpg'
+                src: 'img/portfolio/6/2f.jpg'
             },
             {
-                src: 'img/portfolio/6/3.jpg'
+                src: 'img/portfolio/6/3f.jpg'
             },
             {
-                src: 'img/portfolio/6/4.jpg'
+                src: 'img/portfolio/6/4f.jpg'
             },
             {
-                src: 'img/portfolio/6/5.jpg '
+                src: 'img/portfolio/6/5f.jpg '
             }
         ]
     });
