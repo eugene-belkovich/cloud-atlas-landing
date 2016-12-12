@@ -46,19 +46,190 @@
     }, 300);
 
     // Initialize and Configure Magnific Popup Lightbox Plugin
-    $('.popup-gallery').magnificPopup({
-        delegate: 'a',
+    $('#popup-gallery-one').magnificPopup({
         type: 'image',
         tLoading: 'Loading image #%curr%...',
         mainClass: 'mfp-img-mobile',
         gallery: {
             enabled: true,
             navigateByImgClick: true,
-            preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
+            preload: [0, 1]
         },
         image: {
             tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
-        }
+        },
+        items: [
+            {
+                src: 'img/portfolio/1/1.jpg'
+            },
+            {
+                src: 'img/portfolio/1/2.jpg'
+            },
+            {
+                src: 'img/portfolio/1/3.jpg'
+            },
+            {
+                src: 'img/portfolio/1/4.jpg'
+            },
+            {
+                src: 'img/portfolio/1/5.jpg '
+            }
+        ]
+    });
+
+    $('#popup-gallery-two').magnificPopup({
+        type: 'image',
+        tLoading: 'Loading image #%curr%...',
+        mainClass: 'mfp-img-mobile',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        },
+        image: {
+            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+        },
+        items: [
+            {
+                src: 'img/portfolio/2/1.jpg'
+            },
+            {
+                src: 'img/portfolio/2/2.jpg'
+            },
+            {
+                src: 'img/portfolio/2/3.jpg'
+            },
+            {
+                src: 'img/portfolio/2/4.jpg'
+            },
+            {
+                src: 'img/portfolio/2/5.jpg '
+            }
+        ]
+    });
+
+    $('#popup-gallery-three').magnificPopup({
+        type: 'image',
+        tLoading: 'Loading image #%curr%...',
+        mainClass: 'mfp-img-mobile',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        },
+        image: {
+            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+        },
+        items: [
+            {
+                src: 'img/portfolio/3/1.jpg'
+            },
+            {
+                src: 'img/portfolio/3/2.jpg'
+            },
+            {
+                src: 'img/portfolio/3/3.jpg'
+            },
+            {
+                src: 'img/portfolio/3/4.jpg'
+            },
+            {
+                src: 'img/portfolio/3/5.jpg '
+            }
+        ]
+    });
+
+    $('#popup-gallery-four').magnificPopup({
+        type: 'image',
+        tLoading: 'Loading image #%curr%...',
+        mainClass: 'mfp-img-mobile',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        },
+        image: {
+            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+        },
+        items: [
+            {
+                src: 'img/portfolio/4/1.jpg'
+            },
+            {
+                src: 'img/portfolio/4/2.jpg'
+            },
+            {
+                src: 'img/portfolio/4/3.jpg'
+            },
+            {
+                src: 'img/portfolio/4/4.jpg'
+            },
+            {
+                src: 'img/portfolio/4/5.jpg '
+            }
+        ]
+    });
+
+    $('#popup-gallery-five').magnificPopup({
+        type: 'image',
+        tLoading: 'Loading image #%curr%...',
+        mainClass: 'mfp-img-mobile',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        },
+        image: {
+            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+        },
+        items: [
+            {
+                src: 'img/portfolio/5/1.jpg'
+            },
+            {
+                src: 'img/portfolio/5/2.jpg'
+            },
+            {
+                src: 'img/portfolio/5/3.jpg'
+            },
+            {
+                src: 'img/portfolio/5/4.jpg'
+            },
+            {
+                src: 'img/portfolio/5/5.jpg '
+            }
+        ]
+    });
+
+    $('#popup-gallery-six').magnificPopup({
+        type: 'image',
+        tLoading: 'Loading image #%curr%...',
+        mainClass: 'mfp-img-mobile',
+        gallery: {
+            enabled: true,
+            navigateByImgClick: true,
+            preload: [0, 1]
+        },
+        image: {
+            tError: '<a href="%url%">The image #%curr%</a> could not be loaded.'
+        },
+        items: [
+            {
+                src: 'img/portfolio/6/1.jpg'
+            },
+            {
+                src: 'img/portfolio/6/2.jpg'
+            },
+            {
+                src: 'img/portfolio/6/3.jpg'
+            },
+            {
+                src: 'img/portfolio/6/4.jpg'
+            },
+            {
+                src: 'img/portfolio/6/5.jpg '
+            }
+        ]
     });
 
 })(jQuery); // End of use strict
