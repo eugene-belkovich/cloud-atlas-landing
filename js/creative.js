@@ -1,6 +1,8 @@
 (function ($) {
     "use strict"; // Start of use strict
 
+    $('.carousel').carousel();
+
     // jQuery for page scrolling feature - requires jQuery Easing plugin
     $('a.page-scroll').bind('click', function (event) {
         var $anchor = $(this);
