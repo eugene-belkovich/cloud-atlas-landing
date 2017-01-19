@@ -62,7 +62,7 @@
         },
         items: [
             {
-                src: 'img/portfolio/1/1a.jpg'
+                src: 'img/portfolio/1/1b.jpg'
             },
             {
                 src: 'img/portfolio/1/2a.jpg'
