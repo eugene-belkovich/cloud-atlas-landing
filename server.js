@@ -1,7 +1,6 @@
 var express = require("express");
 var app     = express();
 var path    = require("path");
-var cool = require('cool-ascii-faces');
 
 app.use('/css', express.static(__dirname + '/css'));
 app.use('/img', express.static(__dirname + '/img'));
@@ -13,10 +12,8 @@ app.get('/',function(req,res){
   res.sendFile(path.join(__dirname+'/index.html'));
 });
 
-app.get('/cool', function(request, response) {
-  response.send(cool());
+app.listen(process.env.PORT || 3000, function(){
+  console.log("Express server listening on port %d in %s mode", this.address().port, app.settings.env);
 });
-
-app.listen(3000);
 
 console.log("Running at Port 3000");
